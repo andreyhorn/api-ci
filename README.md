@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/bytgy4v7bj8xq8ur?svg=true)](https://ci.appveyor.com/project/andreyhorn/api-ci)
+[![Java CI with Gradle](https://github.com/andreyhorn/api-ci/actions/workflows/gradle.yml/badge.svg)](https://github.com/andreyhorn/api-ci/actions/workflows/gradle.yml)
